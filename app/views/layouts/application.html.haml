@@ -1,7 +1,7 @@
 !!!
 %html
 %head
-	%title NoteNote | Online Notebook Application
+	%title Online Notebook Application
 	= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
 	= javascript_include_tag 'application', 'data-turbolinks-track' => true
 	%link{:rel => "stylesheet", :href => "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"}/
@@ -9,7 +9,7 @@
 %body
 	%header
 		.header_inner
-			= link_to image_tag( 'logo.svg'), root_path, id: "logo"
+			%i.fa.fa-sticky-note.fa-3x
 			%nav
 				- if user_signed_in?
 					= link_to "New Note", new_note_path
