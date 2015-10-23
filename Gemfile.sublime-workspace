@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabriel/Documents/gabedeko.github.com/index.html",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/global.css.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/welcome.css.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/welcome/index.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/layouts/application.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/devise/sessions/new.html.erb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/devise/registrations/new.html.erb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/notes/new.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/notes/edit.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/notes/_form.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/models/note.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/notes.css.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/application.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/notes/index.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/views/notes/show.html.haml",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/config/environments/development.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/models/user.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/normalize.css.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/welcome.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/assets/stylesheets/notes.scss",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/controllers/notes_controller.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/config/routes.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/app/controllers/welcome_controller.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/db/migrate/20151022035735_create_notes.rb",
+		"/Users/gabriel/Documents/projects/ruby/noteapp/Gemfile"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"green"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"notesco",
+				"app/controllers/notes_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"welcome",
+				"app/controllers/welcome_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
