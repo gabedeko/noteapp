@@ -29,10 +29,12 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.2'
 gem 'devise', '~> 3.5', '>= 3.5.2'
 
-group :development do
+group :development, :test do
 	gem 'sqlite3'
+	grm 'pry'
 end
 
 group :production do
 	gem 'pg'
+	gem 'rail_12factor'
 end
