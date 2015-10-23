@@ -31,7 +31,7 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 
 group :development, :test do
 	gem 'sqlite3'
-	grm 'pry'
+	gem 'pry'
 end
 
 group :production do
